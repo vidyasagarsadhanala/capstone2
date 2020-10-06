@@ -17,3 +17,23 @@ When a customer stops service or company losing customer is referred to as Custo
 *	Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 *	Demographic info about customers – gender, age range, and if they have partners and dependents
 
+### Data Wrangling ###
+'''
+Insert txt here.
+'''
+### Exploratory Data Analysis ###
+'''
+Insert txt here.
+'''
+### Intersting Stats ### 
+'''
+Insert txt here.
+'''
+### Machine Learning ###
+'''
+Insert txt here.
+'''
+### Conclusion ###
+'''
+Insert txt here.
+'''
