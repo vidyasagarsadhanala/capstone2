@@ -33,10 +33,28 @@ When a customer stops service or company losing customer is referred to as Custo
 * Customers that churn tend to be relatively new customers when looking at tenure distribution.
 
 ### Machine Learning ###
-'''
-Insert txt here.
-'''
+* The customer churn is a classification problem and have choose the following
+classification models to predict if a customer churns by fitting the training data set
+and testing on the test set. Used scikit-learn and other libraries in the python
+machine learning world.
+
+*1. Logistic Regression
+*2. Decision Tree model
+*3. Random Forest Classifier
+*4. Extreme gradient boosting (xGBoost)
+
 ### Conclusion ###
-'''
-Insert txt here.
-'''
+
+* The Logistic Regression model seems to be showing a balanced performance than
+compared to the other classification models we have experimented with.
+
+* After performing the cross validation on the different classification models that
+were selected, Logistic Regression model has the highest accuracy with recall and
+the decision criterion.
+Used GridSearchCV to tune the hyper parameters for the Logistic Regression
+model.
+
+* After the final model is run and the influence plotting is completed to understand
+which features effected the churn most. It can be observed that tenure,
+Contract_two_year and TotalCharges are the top three feature that can effect
+customer churn.
