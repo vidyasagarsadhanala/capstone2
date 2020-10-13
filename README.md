@@ -38,10 +38,10 @@ classification models to predict if a customer churns by fitting the training da
 and testing on the test set. Used scikit-learn and other libraries in the python
 machine learning world.
 
-*1. Logistic Regression
-*2. Decision Tree model
-*3. Random Forest Classifier
-*4. Extreme gradient boosting (xGBoost)
+> 1. Logistic Regression
+> 2. Decision Tree model
+> 3. Random Forest Classifier
+> 4. Extreme gradient boosting (xGBoost)
 
 ### Conclusion ###
 
